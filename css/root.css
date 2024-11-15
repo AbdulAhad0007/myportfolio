@@ -1,0 +1,29 @@
+:root {
+  --base-color: white;
+  --main-color: rgb(17 24 39);
+  --base-varient: black;
+  --text-color: rgb(67, 8, 122);
+  --primary-color: rgb(168 85 247);
+  --secondary-color: antiquewhite;
+  --accent-color: rgb(101, 34, 160);
+  --big-para-color: #302f2f;
+  --bg-card-color: white;
+  --secondary-text-color: black;
+  --card-text: black;
+  --secondary-bg-card-color: white;
+  --bg-opacity: 1;
+}
+.darkmode {
+  --base-color: rgb(17 24 39);
+  --base-varient: white;
+  --main-color: white;
+  --text-color: rgb(168 85 247);
+  --primary-color: rgb(168 85 247);
+  --secondary-color: antiquewhite;
+  --accent-color: rgb(101, 34, 160);
+  --bg-card-color: rgb(40, 49, 63);
+  --big-para-color: #d4d4d4;
+  --secondary-bg-card-color: rgb(51, 64, 85);
+  --secondary-text-color: rgb(168 85 247);
+  --card-text: rgb(235, 235, 235);
+}
